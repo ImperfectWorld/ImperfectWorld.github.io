@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: add062dc6714db89065f                            #生成的clientID
   clientSecret: 40d6e3eb8e693b9603f01f8ff484f6063ecac580    #生成的clientSecret
-  repo: imperfectworld.github.io    #仓库名称
+  repo: Lee Blog    #仓库名称
   owner: ImperfectWorld    #github用户名
   admin: ImperfectWorld
   distractionFreeMode: true #是否启用类似FB的阴影遮罩

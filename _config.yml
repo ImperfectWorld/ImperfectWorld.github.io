@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "LL, LL Blog, 李里的博客, lili, wanmei, iOS, Apple, iPhone"
 url: "http://imperfectworld.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ImperfectWorld/ImperfectWorld.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
